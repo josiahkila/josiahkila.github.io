@@ -20,9 +20,6 @@ The first obstacle was gathering reliable information on The Mazzaroth, a term i
 Technical Execution: Web Development Basics
 Once the research phase was completed, the technical aspects of webpage development came into play. This required a foundational understanding of HTML, CSS, and Javascript. Webpage layout and user interface needed to be intuitive, prompting the utilization of design software to prototype different templates. Debugging took a significant chunk of time; each error resolved was a step closer to making the webpage live.
 
-Language and Culture: Striking a Balance
-A critical challenge was presenting a topic rooted in Hebrew culture in a way that would be universally accessible. The webpage needed to be an educational resource for people unfamiliar with the subject matter. To resolve this, I decided to provide translations for Hebrew terms but also incorporated tooltips that allowed for more in-depth exploration of the original language.
-
 User Engagement: Keeping It Simple
 In an age of information overload, the design had to facilitate quick understanding. A clutter-free layout and clear headings were paramount. The text was broken into easily digestible sections, and graphical elements were used to break the monotony and illustrate key points.
 
