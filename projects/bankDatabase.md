@@ -11,7 +11,7 @@ labels:
 summary: "A text adventure game that I developed for ICS 313."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthefinanser.com%2F2021%2F09%2Fwhy-do-we-need-banks-and-branches&psig=AOvVaw0p1Uw9GHPzqGiIBPD3KuI0&ust=1693524778386000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCPjro8vFhYEDFQAAAAAdAAAAABAD">
 
 Constructing a bank database for my ICS 212 course required not just mastery of C++ but also a solid understanding of database design principles. Given that this was a class assignment, the goal was not just to build a functioning database but to develop one that met the rigorous academic criteria of data integrity, efficiency, and user accessibility.
 
