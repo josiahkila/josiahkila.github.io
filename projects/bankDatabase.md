@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/cotton/bankHeader.png
 title: "Crafting a Mini Bank Database Using C++"
 date: 2014
 published: true
