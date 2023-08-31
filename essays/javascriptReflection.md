@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The New Frontier: Javascript"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-08-30
 published: true
 labels:
   - Software Engineering
