@@ -13,7 +13,7 @@ summary: "I Created A Merch Shop Using Wordpress"
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/merch-shop.png" class="img-thumbnail" >
   
 </div>
 
