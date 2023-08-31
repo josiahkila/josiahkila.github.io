@@ -8,8 +8,7 @@ published: true
 labels:
   - Software Engineering
 ---
-
-<img width="200px" class="rounded float-start pe-4" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.oracle.com%2Flanguages%2Fjavascript.html&psig=AOvVaw3CJfzKDqjKGL8KZq3Tu8L5&ust=1693524671317000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCPjcx5fFhYEDFQAAAAAdAAAAABAD">
+<img width="300px" class="rounded float-start pe-4" src="../img/javascriptReflection/javascriptPic.png">
 
 I've got some experience with Java, C++, and HTML, so jumping into Javascript was a bit of an adjustment. The first thing that tripped me up was the syntax and how loose it is compared to something like C++ or Java. I mean, you can declare a variable with var, let, or const, and each has its own scoping rules. It's kinda confusing at first.
 
