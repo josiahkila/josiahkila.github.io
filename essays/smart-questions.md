@@ -1,99 +1,113 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Smart Scripts, Striking Writers: The AI Dilemma"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2023-08-31
 published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - AI
+  - Writers Strike
+  - Scriptwriting
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/ai-writers-strike/ai_vs_human.png">
 
-## Is there such thing as a stupid question?
+## Are AI-written scripts the future or a threat?
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+When I first heard about the Writer's Strike, my immediate thought was about the repercussions it would have on the television and film industry. But then a second thought popped up: Could AI technology step in to fill the void? To be clear, I know that the idea might seem blasphemous to some, but as someone deeply interested in both writing and technology, I couldn't help but ponder over the possibilities and the ethical implications.
 
-## What’s a smart question?
+## What's AI got to do with it?
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+Artificial Intelligence, or AI, has made unprecedented strides in recent years. It's being used in medical research, finance, and yes, even in writing. Companies like OpenAI have developed sophisticated language models capable of composing text that's almost indistinguishable from human-written material. But what about scripts for TV shows or movies? Well, there are already experiments underway.
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+Consider the following example. A film studio recently experimented by using AI to draft a script for a short film:
 
-```
-Q: python date of the previous month
+Title: The Last Goodbye
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
+Scene 1:
+(John walks into the room where Emily is sitting)
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
+John: Emily, we need to talk.
 
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
+Emily: About what?
 
-I have solved this trouble in bash with:
+John: I think we should end things.
 
-echo $(date -d"3 month ago" "+%G%m%d")
+(Scene progresses with emotional dialogues and ends with John leaving the room)
 
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
 
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
+While the script seemed mechanical and lacked emotional nuance, it was technically correct. But here’s the thing: it didn't capture the depth of human emotions, and that's where traditional writers still have the upper hand. The AI model can put words together, but it can't infuse the soul that a human writer can.
 
-Thanks for your help!
-```
+## The Striking Balance
 
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
+The Writer's Strike isn't just about demanding better pay; it's also a fight to preserve the essence of storytelling. If AI starts writing our scripts, then what happens to the unique human element that makes stories resonate with us? 
 
-```
-A: datetime and the datetime.timedelta classes are your friend.
+On the flip side, AI could help reduce the workload of overburdened writers and potentially even lead to more nuanced characters and plots, thanks to big data analytics. Imagine if AI could process all the scripts ever written to create the perfect story arc. Intriguing, right? But again, at what cost?
 
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
 
-Like this:
+Certainly! Here's how the essay would look within a Markdown-formatted document, following the style and layout you initially presented:
 
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
+markdown
+Copy code
+---
+layout: essay
+type: essay
+title: "Smart Scripts, Striking Writers: The AI Dilemma"
+# All dates must be YYYY-MM-DD format!
+date: 2023-08-31
+published: true
+labels:
+  - AI
+  - Writers Strike
+  - Scriptwriting
+---
 
-```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
+<img width="300px" class="rounded float-start pe-4" src="../img/ai-writers-strike/ai_vs_human.png">
 
-## The foolproof way to get ignored.
+## Are AI-written scripts the future or a threat?
 
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
+When I first heard about the Writer's Strike, my immediate thought was about the repercussions it would have on the television and film industry. But then a second thought popped up: Could AI technology step in to fill the void? To be clear, I know that the idea might seem blasphemous to some, but as someone deeply interested in both writing and technology, I couldn't help but ponder over the possibilities and the ethical implications.
 
-```
-Q: Facebook Desktop Notifier
+## What's AI got to do with it?
 
-I am a beginner programmer that have never used anything other than what's included in a language.
+Artificial Intelligence, or AI, has made unprecedented strides in recent years. It's being used in medical research, finance, and yes, even in writing. Companies like OpenAI have developed sophisticated language models capable of composing text that's almost indistinguishable from human-written material. But what about scripts for TV shows or movies? Well, there are already experiments underway.
 
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
+Consider the following example. A film studio recently experimented by using AI to draft a script for a short film:
 
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
+Title: The Last Goodbye
 
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
+Scene 1:
+(John walks into the room where Emily is sitting)
+
+John: Emily, we need to talk.
+
+Emily: About what?
+
+John: I think we should end things.
+
+(Scene progresses with emotional dialogues and ends with John leaving the room)
+
+vbnet
+Copy code
+
+While the script seemed mechanical and lacked emotional nuance, it was technically correct. But here’s the thing: it didn't capture the depth of human emotions, and that's where traditional writers still have the upper hand. The AI model can put words together, but it can't infuse the soul that a human writer can.
+
+## The Striking Balance
+
+The Writer's Strike isn't just about demanding better pay; it's also a fight to preserve the essence of storytelling. If AI starts writing our scripts, then what happens to the unique human element that makes stories resonate with us? 
+
+On the flip side, AI could help reduce the workload of overburdened writers and potentially even lead to more nuanced characters and plots, thanks to big data analytics. Imagine if AI could process all the scripts ever written to create the perfect story arc. Intriguing, right? But again, at what cost?
+
+Q: Is AI the enemy or the ally of a writer?
+
+It's a complex question without a straightforward answer. For writers, the immediate reaction might be of skepticism or even fear. But if AI is used as a tool rather than a replacement, could it help rather than hinder?
+
+
+A tool that could help brainstorm plot points, develop characters, or even check for inclusivity and representation in scripts could be beneficial. But giving AI the pen to write the entire script? Now that's a different story altogether.
 
 ## Conclusion
 
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+As we balance on the edge of this technological revolution, it's important to ponder these ethical and artistic implications. The Writer's Strike, among other things, serves as a reminder of the irreplaceable human touch in storytelling. AI could be a helpful tool, but let's not forget that stories have been the bedrock of human culture for millennia. Replacing human writers with AI would be like replacing the paintbrush with a printer; convenient perhaps, but soulless.
+
+So, the next time you hear about AI in the context of writing, especially scriptwriting, remember: technology should be an enabler, not a replacement. Striking a balance is crucial, and it's a question not just for writers, but for all of us as consumers and human beings.
