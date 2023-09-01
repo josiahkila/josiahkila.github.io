@@ -11,7 +11,7 @@ labels:
   - Scriptwriting
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/ai-writers-strike/ai_vs_human.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/ai-vs-human/ai-vs-human.png">
 
 ## Are AI-written scripts the future or a threat?
 
