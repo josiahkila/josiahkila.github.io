@@ -12,7 +12,7 @@ labels:
   - SEO
 summary: "We developed a WordPress-based merchandise shop optimized for usability, SEO, and sustained growth, winning accolades for design and functionality."
 ---
-
+<img width="300px" class="rounded float-start pe-4" src="../img/merchShop/merchShop2.png">
 ## Introduction
 
 Creating a merchandise shop using WordPress might appear straightforward given the platform's user-friendly interface. However, building a shop that is both functional and competitive requires a structured approach that orchestrates several key components.
