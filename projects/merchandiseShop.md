@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/merchShop/merch-Shop.jpg
+image: img/merchShop/merch-shop.jpg
 title: "Establishing a Merchandise Shop on WordPress"
 date: 2015
 published: true
