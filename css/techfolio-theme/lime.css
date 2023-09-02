@@ -1,4 +1,4 @@
-/* Lime Theme: modifies the default theme to inject a wee bit o' green in various places. */
+
 
 /* Use Open Sans as the default font. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
@@ -9,14 +9,22 @@
   --tf-green2: #4FA64F;
   --tf-green3: #85C285;
   --tf-green4: #e0f2df;
-  --bs-font-sans-serif: "Open Sans", sans-serif;
-  --bs-link-color: var(--tf-green1);
-  --tf-pill-bg: var(--tf-green3);
-  --tf-icon-fill: var(--tf-green1);
-  --tf-icon-hover: var(--tf-green2);
-  --tf-page-bg-color: var(--bs-white);
-  --tf-footer-bg-color: var(--tf-green4);
-  --tf-projects-bg-color: var(--tf-green4);
+  --bs-font-sans-serif:
+  "Open Sans", sans-serif;
+  --bs-link-color: var(
+  --tf-green1);
+  --tf-pill-bg: var(
+  --tf-green3);
+  --tf-icon-fill: var(
+  --tf-green1);
+  --tf-icon-hover: var(
+  --tf-green2);
+  --tf-page-bg-color: var(
+  --bs-white);
+  --tf-footer-bg-color: var(
+  --tf-green4);
+  --tf-projects-bg-color: var(
+  --tf-green4);
 }
 
 h1,h2,h3,h4,h5 {
@@ -45,4 +53,10 @@ a {
 .card-footer {
   background-color: var(--bs-white);
   border-top: none;
+}
+
+.rounded-circle {
+  border-color: var(--tf-green1);
+  border-style: solid;
+  border-width: 1px;
 }
