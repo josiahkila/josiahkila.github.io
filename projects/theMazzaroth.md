@@ -12,11 +12,11 @@ labels:
   - Web Development
 summary: "The Hebrew Study of how the stars tell the story of the Gospel"
 ---
-[Visit The Mazzaroth](https://josiahkila.github.io/theMazzaroth/)
+<img id="full-width-img" src="../img/theMazzaroth/theMazzaroth.png" style="display: block; margin: 0 auto; width: 100%;">
 
 <!-- HTML to create a clickable box -->
 <a href="https://josiahkila.github.io/theMazzaroth/" style="display: inline-block; padding: 10px; background-color: #f2f2f2; border: 1px solid #ccc; border-radius: 4px; text-align: center;">
-  Click Here to Visit The Mazzaroth
+  The Mazzaroth: Hebew Study of the stars
 </a>
 Building an information webpage about The Mazzaroth in Hebrew studies posed a series of challenges, each with its own set of complexities. While the subject matter is deeply rooted in religious texts and cultural traditions, presenting it in a digestible format for a modern audience required a methodical approach.
 
