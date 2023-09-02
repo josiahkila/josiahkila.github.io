@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/merchShop/merchandiseShop.jpg
 title: "Establishing a Merchandise Shop on WordPress: A Structured Approach"
 date: 2015
 published: true
