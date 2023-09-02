@@ -12,6 +12,7 @@ labels:
   - GitHub
 summary: "A responsive web application for travel planning that my team developed in ICS 415."
 ---
+
 Building an information webpage about The Mazzaroth in Hebrew studies posed a series of challenges, each with its own set of complexities. While the subject matter is deeply rooted in religious texts and cultural traditions, presenting it in a digestible format for a modern audience required a methodical approach.
 
 Research: The Foundation
