@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/merchShop/merchShop.png
+image: img/merchShop/merch-shop.png
 title: "Establishing a Merchandise Shop on WordPress"
 date: 2023
 published: true
@@ -12,6 +12,33 @@ labels:
   - SEO
 summary: "We developed a WordPress-based merchandise shop optimized for usability, SEO, and sustained growth, winning accolades for design and functionality."
 ---
+<img width="300px" class="rounded float-start pe-4" src="../img/merchShop/merchShop2.png">
+
+## Introduction
+
+Creating a merchandise shop using WordPress may seem like a plug-and-play endeavor. However, building a shop that is not just functional but also competitive requires orchestrating several key components carefully.
+
+## Preliminary Decisions: Niche and Products
+
+Before even logging into the WordPress dashboard, we zeroed in on our target niche and the types of merchandise we would offer. In-depth market research was crucial for understanding consumer demand and identifying market gaps. Ultimately, we decided to specialize in a particular genre of apparel and accessories.
+
+## Platform Setup: WordPress Installation
+
+With a clear plan in mind, the next step was installing WordPress. While the initial setup is generally straightforward, optimizing the platform settings for eCommerce demands special attention. We chose a reliable hosting service, factoring in uptime and loading speed, and then proceeded with the WordPress CMS installation.
+
+## Design and Layout: Theme and Plugins
+
+Selecting a theme involved more than aesthetic considerations; it also needed to be mobile-responsive and compatible with WooCommerce, the plugin suite enabling eCommerce functionalities. We customized the theme to align it with our brand identity and installed additional plugins to enhance SEO and site security.
+
+## Inventory and Backend: WooCommerce Configuration
+
+The next step involved configuring WooCommerce for streamlined inventory management. We organized products into categories and detailed each item with relevant attributes like size, color, and price. Importantly, we integrated secure payment gateways to safeguard transaction integrity.
+
+## User Experience: Navigation and Checkout
+
+A smooth user experience was a priority for us. We ensured that product categories were easily navigable
+
+
 <img width="300px" class="rounded float-start pe-4" src="../img/merchShop/merchShop2.png">
 ## Introduction
 
