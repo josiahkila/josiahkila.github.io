@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/bankHeader.png
+image: img/bank/bankThumbnail.png
 title: "Crafting a Mini Bank Database Using C++"
 date: 2023
 published: true
