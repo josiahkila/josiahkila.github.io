@@ -12,7 +12,7 @@ labels:
   - SEO
 summary: "We developed a WordPress-based merchandise shop optimized for usability, SEO, and sustained growth, winning accolades for design and functionality."
 ---
-<img width="300px" class="rounded float-start pe-4" src="../img/merchShop/merchShop2.png">
+<img width="900px" class="rounded float-start pe-4" src="../img/merchShop/merchShop2.png">
 
 ## Introduction
 
