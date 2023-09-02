@@ -3,10 +3,10 @@ layout: project
 type: project
 image: img/cotton/bankHeader.png
 title: "Crafting a Mini Bank Database Using C++"
-date: 2014
+date: 2023
 published: true
 labels:
-  - Lisp
+  - C++
   - GitHub
 summary: "A Mini Bank Database that I developed for ICS 212."
 ---
