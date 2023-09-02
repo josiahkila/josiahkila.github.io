@@ -11,7 +11,8 @@ labels:
 summary: "A Mini Bank Database that I developed for ICS 212."
 ---
 
-<img class="img-fluid" src="../img/bank/bankDatabase.png" style="display: block; margin: 0 auto; width: 1000px; height: 600px;">
+<img id="full-width-img" src="../img/bank/bankDatabase.png" style="display: block; margin: 0 auto; width: 100%;">
+
 
 Constructing a bank database for my ICS 212 course required not just mastery of C++ but also a solid understanding of database design principles. Given that this was a class assignment, the goal was not just to build a functioning database but to develop one that met the rigorous academic criteria of data integrity, efficiency, and user accessibility.
 
