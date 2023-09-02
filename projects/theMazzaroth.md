@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
-title: "Creating an Information Webpage about The Mazzaroth in Hebrew Studies: A Practical Approach"
-date: 2015
+image: img/theMazzaroth/mazzaroth.png
+title: "Creating an Information Webpage about The Gospel In The Stars."
+date: 2023
 published: true
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - HTML
+  - CSS
+  - Web Development
+summary: "The Hebrew Study of how the stars tell the story of the Gospel"
 ---
 
 Building an information webpage about The Mazzaroth in Hebrew studies posed a series of challenges, each with its own set of complexities. While the subject matter is deeply rooted in religious texts and cultural traditions, presenting it in a digestible format for a modern audience required a methodical approach.
