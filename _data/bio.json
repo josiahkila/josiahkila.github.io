@@ -11,7 +11,6 @@
     "profiles": [
       { "network": "github", "username": "josiahkila", "url": "http://github.com/josiahkila" },
       { "network": "linkedin", "username": "josiah-kila", "url": "http://linkedin.com/in/josiah-kila" },
-      { "network": "twitter", "username": "", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "josiahkila_", "url": "http://instagram.com/josiahkila_" }
     ]
   },
