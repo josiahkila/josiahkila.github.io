@@ -14,9 +14,16 @@ labels:
 
 # Analysis of a Smart Technical Question
 
-## Introduction
+## What is a Smart Question?
 
-We often come across questions related to code on forums and platforms like Stack Overflow. Not all questions are created equal; some are much more effective at eliciting useful and targeted help than others. This document aims to dissect why a particular question, which deals with manipulating Google Sheet data using Google Apps Script, is effective and can be classified as a 'smart question'.
+A smart question is specific, concise, and well-researched. It provides enough context for the reader to understand the problem, including code snippets, error messages, or related documentation. A smart question shows that the asker has put in some effort to solve the problem themselves and is clear about what they are asking.
+
+---
+
+## What is a Not-So-Smart Question?
+
+A not-so-smart question is vague, lacks context, and shows little to no research effort. It may be missing crucial details like code samples, error messages, or a description of the desired outcome. These questions make it difficult for others to provide meaningful assistance and are less likely to attract expert help.
+
 
 ---
 ## Example Question:
