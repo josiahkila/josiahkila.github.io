@@ -9,7 +9,7 @@ labels:
   - Forums
   - Stack Overflow
 ---
-<img width="300px" class="rounded float-start pe-4" src="../img/smartQuestions/javascriptPic.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/smartQuestions/smartQuestions.jpg">
 
 # Analysis of a Smart Technical Question
 
