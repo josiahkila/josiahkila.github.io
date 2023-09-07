@@ -27,7 +27,12 @@ Here is the code :
 function FILL_PROJ_005() {
 //function content
 }
-In the function  var PROJECT_LIST = DATA_SORTED.getRange(1,1,1,1); I would like to extract only some value of the DATA_SORTED ( at the end I need all the column "B", and .getRange(1,1,1,1); is just a first test.) But I get this error message : TypeError: DATA_SORTED.getRange is not a function I understand that the result of var DATA_SORTED is an array, but how do I convert it again into values that I can continue to filter ?  I have try to use .map, but I felt to understand how to use it...
+
+In the function  var PROJECT_LIST = DATA_SORTED.getRange(1,1,1,1);
+I would like to extract only some value of the DATA_SORTED ( at the end I need all the column "B", and .getRange(1,1,1,1); is just a first test.)
+But I get this error message : TypeError: DATA_SORTED.getRange is not a function
+I understand that the result of var DATA_SORTED is an array, but how do I convert it again into values that I can continue to filter ? 
+I have try to use .map, but I felt to understand how to use it...
 
 Here is a sample of the data I'am working on : //sample
 
