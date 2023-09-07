@@ -28,20 +28,14 @@ A not-so-smart question is vague, lacks context, and shows little to no research
 ---
 ## Example Question:
 
-I have been doing some code with the help of stackoverflow people. I have collect data, filter them, and then sort them. but I get suck when I want to go to the next step.I have been doing some code with the help of stackoverflow people. I have collect data, filter them, and then sort them. but I get suck when I want to go to the next step.
+**I have been doing some code with the help of stackoverflow people. I have collect data, filter them, and then sort them. but I get suck when I want to go to the next step.I have been doing some code with the help of stackoverflow people. I have collect data, filter them, and then sort them. but I get suck when I want to go to the next step.**
 
-Here is the code :
-function FILL_PROJ_005() {
-//function content
-}
+**Here is the code : function FILL_PROJ_005() { //function content }**
 
-In the function  var PROJECT_LIST = DATA_SORTED.getRange(1,1,1,1);
-I would like to extract only some value of the DATA_SORTED ( at the end I need all the column "B", and .getRange(1,1,1,1); is just a first test.)
-But I get this error message : TypeError: DATA_SORTED.getRange is not a function
-I understand that the result of var DATA_SORTED is an array, but how do I convert it again into values that I can continue to filter ? 
-I have try to use .map, but I felt to understand how to use it...
+**In the function var PROJECT_LIST = DATA_SORTED.getRange(1,1,1,1); I would like to extract only some value of the DATA_SORTED ( at the end I need all the column “B”, and .getRange(1,1,1,1); is just a first test.) But I get this error message : TypeError: DATA_SORTED.getRange is not a function I understand that the result of var DATA_SORTED is an array, but how do I convert it again into values that I can continue to filter ? I have try to use .map, but I felt to understand how to use it…**
 
-Here is a sample of the data I'am working on : //sample
+**Here is a sample of the data I’am working on : //sample**
+
 
 [How do I convert an array into values?](https://stackoverflow.com/questions/77061273/how-do-i-convert-an-array-into-values)
 
@@ -78,7 +72,7 @@ Including the exact error message helps potential helpers diagnose the issue qui
 ---
 ## Analysis of a Not-So-Smart Question
 
-The question "I'm having problems with my code. Can anybody help?" is considered not so smart or effective for the following reasons:
+**The question "I'm having problems with my code. Can anybody help?" is considered not so smart or effective for the following reasons:**
 
 ### Lack of Specificity
 The question doesn't specify what the problem is. Is it a syntax error, a logical error, or something else? Without this information, it's impossible for anyone to provide targeted assistance.
