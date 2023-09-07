@@ -16,6 +16,7 @@ labels:
 ## Introduction
 
 We often come across questions related to code on forums and platforms like Stack Overflow. Not all questions are created equal; some are much more effective at eliciting useful and targeted help than others. This document aims to dissect why a particular question, which deals with manipulating Google Sheet data using Google Apps Script, is effective and can be classified as a 'smart question'.
+
 ---
 ## Example Question:
 
