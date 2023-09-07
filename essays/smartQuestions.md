@@ -21,7 +21,15 @@ We often come across questions related to code on forums and platforms like Stac
 ---
 ## Example Question:
 
-For a live example of a similar smart question, visit the following Stack Overflow thread:
+I have been doing some code with the help of stackoverflow people. I have collect data, filter them, and then sort them. but I get suck when I want to go to the next step.I have been doing some code with the help of stackoverflow people. I have collect data, filter them, and then sort them. but I get suck when I want to go to the next step.
+
+Here is the code :
+function FILL_PROJ_005() {
+//function content
+}
+In the function  var PROJECT_LIST = DATA_SORTED.getRange(1,1,1,1); I would like to extract only some value of the DATA_SORTED ( at the end I need all the column "B", and .getRange(1,1,1,1); is just a first test.) But I get this error message : TypeError: DATA_SORTED.getRange is not a function I understand that the result of var DATA_SORTED is an array, but how do I convert it again into values that I can continue to filter ?  I have try to use .map, but I felt to understand how to use it...
+
+Here is a sample of the data I'am working on : //sample
 
 [How do I convert an array into values?](https://stackoverflow.com/questions/77061273/how-do-i-convert-an-array-into-values)
 
@@ -56,5 +64,26 @@ The asker is upfront about the areas they don't understand and is open to learni
 Including the exact error message helps potential helpers diagnose the issue quickly. This often speeds up the troubleshooting process and makes it easier for those answering to provide immediate and relevant guidance.
 
 ---
+## Analysis of a Not-So-Smart Question
+
+The question "I'm having problems with my code. Can anybody help?" is considered not so smart or effective for the following reasons:
+
+### Lack of Specificity
+The question doesn't specify what the problem is. Is it a syntax error, a logical error, or something else? Without this information, it's impossible for anyone to provide targeted assistance.
+
+### Missing Context
+There's no code snippet, error message, or even a description of what the code is supposed to achieve. Context is crucial for troubleshooting issues in programming.
+
+### Vague Language
+The word "problems" is too vague. It doesn't convey whether the issue is with a particular function, the entire program, or perhaps something more abstract like performance or security.
+
+### No Indication of Effort
+Good questions often show that the asker has tried to solve the problem themselves. This could be through sharing error messages they've received, explaining troubleshooting steps they've already taken, or providing sources they've consulted.
+
+### Inefficient for Both Parties
+The lack of information means that anyone willing to help will need to ask for more details first. This results in a longer time to get to a solution, making it inefficient for both the person asking the question and those attempting to provide help.
+
+### Discourages Expert Help
+Experts are more likely to engage with well-formulated questions that show research effort and provide sufficient detail. A vague question is less appealing because it suggests that the asker has not invested time in framing their question or attempting to solve their problem.
 
 
