@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "A Practical Look at Coding Standards: My Experience with ESLint"
+title: "The Pragmatic Value of Coding Standards: ESLint as a Case Study"
 # All dates must be YYYY-MM-DD format!
-date: "2023-09-21"
+date: 2023-09-21
 published: true
 labels:
   - Software Engineering
@@ -11,11 +11,40 @@ labels:
   - ESLint
 ---
 <img width="300px" class="rounded float-start pe-4" src="../img/codingStandards/codingStandards.png">
+<div style="clear: both;"></div>
 
-Some people view coding standards as minor details, like how many spaces should be used for indentation or where to place a closing curly brace. In contrast, I think coding standards offer a lot more. They can improve the quality of your code and can even serve as a learning tool for new programming languages.
+# The Two Sides of ESLint: Annoying but Helpful
 
-I started using ESLint in conjunction with IntelliJ recently. At first, I found it a bit tedious. My code was often marked with red lines, pointing out areas that didn't meet certain standards. The pursuit of a green checkmark, indicating my code was up to par, initially seemed like an extra chore. But after spending more time with it, I recognized its value. ESLint acts as a helpful, if sometimes annoying, guide. It encourages good coding habits, nudging you towards best practices. It might be irritating when you're in a hurry, but in the long run, it makes your code easier to read and maintain.
+## What is ESLint?
 
-The tool serves as a kind of code review, but one that's automated and immediate. For example, ESLint will encourage the use of 'let' and 'const' over 'var,' which helps with understanding variable scope in JavaScript. It's these little things that contribute to a better grasp of the language and cleaner code. Is using ESLint cumbersome? Initially, yes. But is it beneficial? Definitely. It might take a little getting used to, but the tool makes you more disciplined as a developer. As you correct issues, you internalize best practices, which pays off in the long term.
+ESLint is a static code analysis tool that identifies problematic patterns in JavaScript code. It integrates with various editors, including IntelliJ, providing real-time feedback to developers. ESLint ensures that your code follows best practices and maintains a consistent style.
 
-In summary, while the specifics of coding standards may seem minor, they serve a significant role in producing quality code. They can also be instructive, teaching you better ways to use a language. ESLint, despite its initial annoyance, is a useful tool for this. It's a reminder to keep good habits, helping you to become a better developer overall.
+---
+
+## Why It Initially Feels Tedious
+
+When you first integrate ESLint with IntelliJ, it can be rather irksome. The tool highlights code that doesn't meet set standards, requiring changes even for minor deviations. It's a bit like having an overzealous grammar teacher peering over your shoulder.
+
+---
+
+## The Green Checkmark: A Mixed Blessing
+
+Chasing the elusive green checkmark—that sign that your code is ESLint-compliant—can feel tedious. However, once you have it, it does offer a sense of accomplishment. More importantly, it implies that your code is more maintainable, readable, and in line with best practices.
+
+---
+
+## How It Actually Helps
+
+The more you use ESLint, the more you realize that the green checkmark isn't just a pretty symbol. It signifies code that's easier to debug, read, and maintain. ESLint prompts you to write better JavaScript code, employing practices that you might not have known before. So, it's not just about adhering to rules; it's about learning and growth.
+
+---
+
+## A Tool for Learning a Language
+
+While ESLint is primarily used for maintaining code quality, its benefits as a learning tool can't be ignored. It enforces best practices that you might not be aware of as a beginner. So, in a way, ESLint educates you, making it easier to write better code in the future.
+
+---
+
+## Some Final Thoughts
+
+It’s tempting to consider coding standards and tools like ESLint as burdensome chores. But it's more constructive to view them as opportunities for improvement and learning. While ESLint can be tedious, it's also immensely beneficial. So, for anyone coding in JavaScript, ESLint is worth the initial hassle for the longer-term gains. 
