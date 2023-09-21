@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Why Coding Standards Matter"
+title: "A Practical Look at Coding Standards: My Experience with ESLint"
 # All dates must be YYYY-MM-DD format!
 date: "2023-09-21"
 published: true
@@ -10,18 +10,12 @@ labels:
   - Coding Standards
   - ESLint
 ---
-<img width="300px" class="rounded float-start pe-4" src="../img/codingStandards/codingStandard.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/codingStandards/codingStandards.png">
 
-A lot of people think coding standards are just small rules about how to format your code. They focus on things like how many spaces to use or where to put brackets. I think there's a lot more to it. In my view, if you want to make your code better, using coding standards is the way to go.
+Some people view coding standards as minor details, like how many spaces should be used for indentation or where to place a closing curly brace. In contrast, I think coding standards offer a lot more. They can improve the quality of your code and can even serve as a learning tool for new programming languages.
 
-I recently started using a tool called ESLint in my coding editor, IntelliJ. At first, it felt a bit annoying. ESLint flags even tiny issues in your code and won't give you a green checkmark until you fix them. But after using it for a week, I started to see the value.
+I started using ESLint in conjunction with IntelliJ recently. At first, I found it a bit tedious. My code was often marked with red lines, pointing out areas that didn't meet certain standards. The pursuit of a green checkmark, indicating my code was up to par, initially seemed like an extra chore. But after spending more time with it, I recognized its value. ESLint acts as a helpful, if sometimes annoying, guide. It encourages good coding habits, nudging you towards best practices. It might be irritating when you're in a hurry, but in the long run, it makes your code easier to read and maintain.
 
-Fixing the small issues ESLint pointed out made my code look cleaner. It was easier to read and understand. Plus, as I worked on fixing these issues, I began to notice other important details about the language I was using. This helped me learn faster.
+The tool serves as a kind of code review, but one that's automated and immediate. For example, ESLint will encourage the use of 'let' and 'const' over 'var,' which helps with understanding variable scope in JavaScript. It's these little things that contribute to a better grasp of the language and cleaner code. Is using ESLint cumbersome? Initially, yes. But is it beneficial? Definitely. It might take a little getting used to, but the tool makes you more disciplined as a developer. As you correct issues, you internalize best practices, which pays off in the long term.
 
-Good coding standards can actually stop bugs before they happen. They also make it easier for everyone on a team to understand the code. This means less time figuring out what someone else's code does and more time solving the actual problem.
-
-The ESLint tool helps a lot with this. It checks my code as I write it. Sure, it can be a bit annoying to get flagged for small stuff, but fixing these issues helps me learn better coding practices. It's like a mini-lesson in how to code better, right as I'm coding.
-
-Some people think strict rules limit creativity. I don't agree. Having a clean, well-organized set of code can actually make it easier to be creative. It's like having a clean desk. You can think better when you're not distracted by clutter.
-
-So, to sum it up, coding standards are about more than just making your code look good. They help you write better code, work better in a team, and learn the language faster. My experience with ESLint and IntelliJ has been pretty good, turning something that seemed annoying into a helpful learning tool.
+In summary, while the specifics of coding standards may seem minor, they serve a significant role in producing quality code. They can also be instructive, teaching you better ways to use a language. ESLint, despite its initial annoyance, is a useful tool for this. It's a reminder to keep good habits, helping you to become a better developer overall.
