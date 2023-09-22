@@ -13,7 +13,7 @@ labels:
 <img width="300px" class="rounded float-start pe-4" src="../img/codingStandards/codingStandards.png">
 <div style="clear: both;"></div>
 
-## The Pragmatic Value of Coding Standards: An ESLint Perspective
+## The Value of Coding Standards: ESLint
 
 When you first integrate ESLint with IntelliJ, it can feel like the software equivalent of a grammar teacher endlessly correcting your sentence structure and punctuation. The tool marks your JavaScript code for all kinds of infractions, from using 'var' instead of 'let' or 'const', to more subtle issues like incorrect spacing or the use of deprecated methods. Chasing that elusive green checkmark—the sign that your code is ESLint-compliant—often feels like an exercise in frustration. 
 
