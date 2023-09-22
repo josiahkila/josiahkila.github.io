@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Pragmatic Value of Coding Standards: An ESLint Perspective"
+title: "The Value of Coding Standards:ESLint"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-21
 published: true
