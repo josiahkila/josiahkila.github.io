@@ -10,7 +10,7 @@ labels:
   - Coding Standards
   - ESLint
 ---
-<img width="300px" class="rounded float-start pe-4" src="../img/eslintReflection/eslintPic.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/codingStandards/codingStandards.png">
 <div style="clear: both;"></div>
 
 ## The Pragmatic Value of Coding Standards: An ESLint Perspective
