@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Unsung Heroes of Modern Web Development: The Case for UI Frameworks"
+title: "The Case for UI Frameworks"
 date: 2023-10-04
 published: true
 labels:
@@ -10,7 +10,7 @@ labels:
   - Bootstrap 5
   - Semantic UI
 ---
-<img width="300px" class="rounded float-start pe-4" src="../img/uiFrameworks/frothfooleryrecreation1.PNG">
+<img width="500px" class="rounded float-start pe-4" src="../img/uiFrameworks/frothfooleryrecreation1.PNG">
 <div style="clear: both;"></div>
 
 ## The Unsung Heroes of Modern Web Development: The Case for UI Frameworks
