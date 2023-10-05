@@ -2,7 +2,7 @@ layout: essay
 type: essay
 title: "The Unsung Heroes of Modern Web Development: The Case for UI Frameworks"
 
-All dates must be YYYY-MM-DD format!
+## All dates must be YYYY-MM-DD format!
 date: 2023-10-04
 published: true
 labels:
@@ -11,7 +11,7 @@ Software Engineering
 UI Frameworks
 Bootstrap 5
 Semantic UI
-<img width="300px" class="rounded float-start pe-4" src="../img/uiFrameworks/uiFrameworks.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/uiFrameworks/frothfooleryrecreation1.PNG">
 <div style="clear: both;"></div>
 The Unsung Heroes of Modern Web Development: The Case for UI Frameworks
 Web development has come a long way from the days of basic HTML and CSS files. Today, it's an intricate field, complete with a multitude of tools, languages, and methodologies. Among these modern advances are UI frameworks such as Bootstrap 5 and Semantic UI, which offer a host of pre-designed elements and components. While some might argue that these frameworks add unnecessary complexity, the benefits they bring to the table can make the learning curve well worth it.
