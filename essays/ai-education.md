@@ -11,7 +11,7 @@ labels:
   - Personal Experience
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/ai-education/ai-in-ics-314.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/ai-education/ai-education.jpg">
 
 ## Integrating AI into Software Engineering Education
 
