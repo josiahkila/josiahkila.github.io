@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Design Patterns: The Craftsmanship Tools of Software Engineering"
-date: 2023-08-31
+date: 2023-11-29
 published: true
 labels:
   - Software Engineering
