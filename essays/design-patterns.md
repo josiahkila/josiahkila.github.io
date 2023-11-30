@@ -1,14 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "Navigating the AI Landscape in ICS 314: A Personal Journey"
-# All dates must be YYYY-MM-DD format!
-date: 2023-11-21
+title: "Design Patterns: The Craftsmanship Tools of Software Engineering"
+date: 2023-08-31
 published: true
 labels:
-  - AI in Education
   - Software Engineering
-  - Personal Experience
+  - Design Patterns
+  - Coding Best Practices
 ---
 
 
