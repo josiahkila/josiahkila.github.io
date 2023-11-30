@@ -10,7 +10,7 @@ labels:
   - Coding Best Practices
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/software-craftsmanship/software-craftsmanship.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/design-patterns/design-patterns.jpg">
 
 ## Design patterns in software engineering are like the essential tools in a craftsman's toolbox.
 
