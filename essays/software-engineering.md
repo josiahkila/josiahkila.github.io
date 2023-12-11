@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Exploring Fundamental Software Engineering Concepts: Beyond Web Application Development"
+title: "Software Engineering: Beyond Web Application Development"
 # All dates must be YYYY-MM-DD format!
-date: 2023-11-21
+date: 2023-12-11
 published: true
 labels:
   - Software Engineering
