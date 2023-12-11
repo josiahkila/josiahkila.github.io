@@ -15,7 +15,7 @@ labels:
 
 ## Introduction
 
-In this essay, I will reflect on the essential software engineering concepts that I have learned throughout this course. While the primary focus of the course was on web application development, it is crucial to recognize that the skills and knowledge gained transcend this specific domain. I will delve into two critical software engineering topics covered in the course: Agile Project Management, specifically Issue Driven Project Management, and Functional Programming. These concepts extend beyond web development and can be applied to various project contexts.
+While the primary focus of the course was on web application development, it is crucial to recognize that the skills and knowledge gained transcend this specific domain. In my case, before the semester started I have alrady been trying to been a website for an intership I am apart of. This class has taught me how to build a website off of a template, build components and pages, and deploy it to a live server. This class was probably my favorite because it gives me direction into what sector of Computer Science I was to venture down. Some other topics that I've learned in this course are Agile Project Management, specifically Issue Driven Project Management, and Functional Programming. These concepts extend beyond web development and can be applied to various project contexts.
 
 ## Agile Project Management and Issue Driven Project Management
 
@@ -31,6 +31,6 @@ In non-web development projects, such as data analysis or scientific simulations
 
 ## Conclusion
 
-In conclusion, this course has equipped me with valuable software engineering concepts that extend far beyond web application development. Agile Project Management, specifically Issue Driven Project Management, emphasizes flexibility and adaptability, making it applicable to a wide range of projects. Functional Programming principles promote code reliability and can enhance the quality of software in various domains.
+This course has equipped me with valuable software engineering concepts that extend far beyond web application development. Agile Project Management, specifically Issue Driven Project Management, emphasizes flexibility and adaptability, making it applicable to a wide range of projects. Functional Programming principles promote code reliability and can enhance the quality of software in various domains.
 
 By embracing these fundamental software engineering concepts, I am better prepared to tackle future projects, whether they involve web applications, data analysis, scientific research, or other domains. These skills and knowledge have broadened my perspective on software engineering, emphasizing the importance of adaptability, code quality, and user-centric development in any project context.
