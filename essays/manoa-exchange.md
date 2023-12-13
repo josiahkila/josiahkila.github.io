@@ -1,3 +1,20 @@
+---
+layout: project
+type: project
+image: img/manoaexchange/manoaexchange.png
+title: "Manoa Exchange"
+date: 2023
+published: true
+labels:
+  - Web Development
+  - Software Engineering
+  - React
+  - Bootstrap
+  - Meteor
+  - CSS
+summary: "The Instagram for exchange students"
+---
+
 ### Important Links
 * <a href = "https://github.com/manoa-exchange">Github Organization</a>
 *  <a href = "https://github.com/orgs/manoa-exchange/projects/1">M1 Project Page</a>
