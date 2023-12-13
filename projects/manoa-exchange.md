@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/manoa-exchange/screencapture-manoaexchange-2023-12-11-22_56_27.png
+image: ../img/manoa-exchange/screencapture-manoaexchange-2023-12-11-22_56_27.png
 title: "Manoa Exchange"
 date: 2023
 published: true
@@ -48,7 +48,7 @@ Our solution is a peer-to-peer study abroad experience sharing site which is an 
 
 The landing page is presented when users first enter the site. There are several links to the Sign Up page, and it lists the features of the application. Additionally, there will be a carousel of resources available at the bottom of the page.
 
-<img src="img/manoa-exchange/screencapture-manoaexchange-2023-12-11-22_56_27.png" alt="concept-landing">
+<img src="../img/manoa-exchange/screencapture-manoaexchange-2023-12-11-22_56_27.png" alt="concept-landing">
 
 ### Signed In Landing 
 
