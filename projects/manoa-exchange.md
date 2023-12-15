@@ -3,7 +3,7 @@ layout: project
 type: project
 image: ../img/manoa-exchange/screencapture-manoaexchange-2023-12-11-22_56_27.png
 title: "Manoa Exchange"
-date: 2023
+date: 2023-12-13
 published: true
 labels:
   - Web Development
