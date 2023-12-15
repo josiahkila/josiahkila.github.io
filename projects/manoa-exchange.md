@@ -44,6 +44,10 @@ There are students who want to travel abroad, but have no prior experience, and 
 
 Our solution is a peer-to-peer study abroad experience sharing site which is an application designed for UH Manoa students to post about the experiences they had in traveling/studying in other countries. This enables and promotes student discussion on the topic of studying abroad.
 
+### My Contribution
+
+I created the PostPage, AddPostPage, EditPostPage, ModerationPage, and the SignOutPage. Adnything to do with posting and functionality was my job. Through this project I learned to interact with the MongoDB and collections. I experienced adding to, updating, and removing items from a collection and how to manage roles and subscriptions. I will be able to use the skills I've acquired toward my own website and projects. I look forward to continuing in web development.
+
 ### Landing
 
 The landing page is presented when users first enter the site. There are several links to the Sign Up page, and it lists the features of the application. Additionally, there will be a carousel of resources available at the bottom of the page.
