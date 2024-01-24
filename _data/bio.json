@@ -1,59 +1,105 @@
 {
   "basics": {
     "name": "Josiah Kila",
-    "label": "Student",
+    "label": "Computer Science Student",
     "picture": "https://github.com/josiahkila/josiahkila.github.io/blob/main/img/josiahkila.jpg?raw=true",
     "email": "josiahki@hawaii.edu",
     "phone": "808-724-0452",
     "website": "https://josiahkila.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024.",
-    "location": { "address": "", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
+    "location": {
+      "address": "451116 Makamae St.",
+      "postalCode": "96744",
+      "city": "Kaneohe",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "josiahkila", "url": "http://github.com/josiahkila" },
-      { "network": "linkedin", "username": "josiah-kila", "url": "http://linkedin.com/in/josiah-kila" },
-      { "network": "instagram", "username": "josiahkila_", "url": "http://instagram.com/josiahkila_" }
+      {
+        "network": "github",
+        "username": "josiahkila",
+        "url": "http://github.com/josiahkila"
+      },
+      {
+        "network": "linkedin",
+        "username": "josiah-kila",
+        "url": "http://linkedin.com/in/josiah-kila"
+      },
+      {
+        "network": "instagram",
+        "username": "josiahkila_",
+        "url": "http://instagram.com/josiahkila_"
+      }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Business Management" },
-    { "name": "Web Development" },
-    { "name": "Robotics" },
-    { "name": "Social Media Management" }
+    {
+      "name": "Interactive media"
+    },
+    {
+      "name": "Business Management"
+    },
+    {
+      "name": "Web Development"
+    },
+    {
+      "name": "Robotics"
+    },
+    {
+      "name": "Social Media Management"
+    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS" ]
+      "keywords": ["C", "C++", "Java", "Javascript", "HTML", "CSS", "Perl", "Python"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "Windows" ]
+      "keywords": ["MacOS", "Ubuntu", "Git/GitHub", "g++", "Windows"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
-      "studyType": "B.A.",
+      "institution": "Windward Community College",
+      "area": "Information & Communications Science, Computer Science",
+      "studyType": "Associate Degree",
       "startDate": "2020-09-01",
+      "endDate": "2022-05-31",
+      "courses": ["Calculus I & II", "Discrete Math I & II", "CSC 212", "Organizational Communication"]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Information & Communications Science, Computer Science",
+      "studyType": "B.A.",
+      "startDate": "2023-01-01",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": ["Program Structure 212", "Algorithms 311"]
     }
   ],
   "work": [
-   
     {
       "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "position": "IT Lab Monitor",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2023-02-28",
+      "startDate": "2023-02-01",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Providing technical diagnostic, triage, and advisement on cross-platform support issues for UH affiliates.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Troubleshoot software, hardware and networking issues",
+        "Assist users in selecting appropriate computer hardware and software solutions"
+      ]
+    },
+    {
+      "company": "Commercial Industrial Electric",
+      "position": "Apprentice",
+      "website": "",
+      "startDate": "2018-02-01",
+      "endDate": "2018-08-31",
+      "summary": "Learned and assisted in basic electrical operations and maintenance.",
+      "highlights": [
+        "Operated and maintained electrical equipment",
+        "Assisted Master Electrician in various projects"
       ]
     }
   ],
@@ -61,13 +107,13 @@
     {
       "organization": "Anchor Church",
       "website": "https://www.myanchor.church/",
-      "position": "Youth Leader, Men's Group Leader",
-      "startDate": "2018-01-01",
+      "position": "Youth Leader",
+      "startDate": "2016-02-01",
       "endDate": "Present",
-      "summary": "Youth Leader for kids 7th-12th grade, Head Men's Group Leader",
+      "summary": "Leading and coordinating activities for youth, fostering a safe and engaging environment.",
       "highlights": [
-        "Connect with local community teenagers and create a safe environment",
-        "Lead a Saturday Men's Group through a 20 week series about Manhood"
+        "Develop interpersonal and communication skills",
+        "Plan and implement diverse learning activities"
       ]
     }
   ],
@@ -76,13 +122,13 @@
       "title": "1st MATE Underwater Robotics Competition",
       "date": "2019",
       "awarder": "MATE Robotics",
-      "summary": "Create an underwater robot with the objective of picking up rings and placing them on a pole."
+      "summary": "Created an underwater robot for picking up rings and placing them on a pole."
     },
     
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "Austin ChongTim"
     }
   ]
 }
