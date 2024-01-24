@@ -74,7 +74,7 @@
       "studyType": "B.A.",
       "startDate": "2023-01-01",
       "endDate": "Present",
-      "courses": ["Program Structure 212", "Algorithms 311"]
+      "courses": ["Program Structure 212", "Algorithms 311, Software Engineering I, Software Engineering II, Databases, Software Quality Assureance, Hacking For Defense"]
     }
   ],
   "work": [
@@ -128,7 +128,10 @@
   ],
   "references": [
     {
-      "name": "Austin ChongTim"
+      "name": "Austin ChongTim",
+      "role": "Software Engineer",
+      "company": Hungry Potato Games",
+      "email": "Austin.Chongtim@hungrypotatogames.com
     }
   ]
 }
