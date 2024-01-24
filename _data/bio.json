@@ -74,7 +74,7 @@
       "studyType": "B.A.",
       "startDate": "2023-01-01",
       "endDate": "Present",
-      "courses": ["Program Structure 212", "Algorithms 311, Software Engineering I, Software Engineering II, Databases, Software Quality Assureance, Hacking For Defense"]
+      "courses": ["Program Structure 212", "Algorithms 311", "Software Engineering I", "Software Engineering II", "Databases", "Software Quality Assurance", "Hacking For Defense"]
     }
   ],
   "work": [
@@ -123,15 +123,14 @@
       "date": "2019",
       "awarder": "MATE Robotics",
       "summary": "Created an underwater robot for picking up rings and placing them on a pole."
-    },
-    
+    }
   ],
   "references": [
     {
       "name": "Austin ChongTim",
       "role": "Software Engineer",
-      "company": Hungry Potato Games",
-      "email": "Austin.Chongtim@hungrypotatogames.com
+      "company": "Hungry Potato Games",
+      "email": "Austin.Chongtim@hungrypotatogames.com"
     }
   ]
 }
