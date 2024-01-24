@@ -1,0 +1,136 @@
+{
+  "basics": {
+    "name": "Josiah Kila",
+    "label": "Computer Science Student",
+    "picture": "https://github.com/josiahkila/josiahkila.github.io/blob/main/img/josiahkila.jpg?raw=true",
+    "email": "josiahki@hawaii.edu",
+    "phone": "808-724-0452",
+    "website": "https://josiahkila.github.io",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024.",
+    "location": {
+      "address": "451116 Makamae St.",
+      "postalCode": "96744",
+      "city": "Kaneohe",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "josiahkila",
+        "url": "http://github.com/josiahkila"
+      },
+      {
+        "network": "linkedin",
+        "username": "josiah-kila",
+        "url": "http://linkedin.com/in/josiah-kila"
+      },
+      {
+        "network": "instagram",
+        "username": "josiahkila_",
+        "url": "http://instagram.com/josiahkila_"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Product Management"
+    },
+    {
+      "name": "Business Management"
+    },
+    {
+      "name": "Web Development"
+    },
+    {
+      "name": "Data Analytics"
+    },
+    {
+      "name": "Software Engineering"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": ["PHP", "SQL", "Java", "Javascript", "HTML", "CSS", "Python"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": ["MacOS", "Ubuntu", "Git/GitHub", "g++", "Windows"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Windward Community College",
+      "area": "Information & Communications Science, Computer Science",
+      "studyType": "Associate Degree",
+      "startDate": "2020-09-01",
+      "endDate": "2022-05-31",
+      "courses": ["Calculus I & II", "Discrete Math I & II", "CSC 212", "Organizational Communication"]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Information & Communications Science, Computer Science",
+      "studyType": "B.A.",
+      "startDate": "2023-01-01",
+      "endDate": "Present",
+      "courses": ["Program Structure 212", "Algorithms 311", "Software Engineering I", "Software Engineering II", "Databases", "Software Quality Assurance", "Hacking For Defense"]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Information Technology Services",
+      "position": "IT Lab Monitor",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2023-02-01",
+      "endDate": "Present",
+      "summary": "Providing technical diagnostic, triage, and advisement on cross-platform support issues for UH affiliates.",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues",
+        "Assist users in selecting appropriate computer hardware and software solutions"
+      ]
+    },
+    {
+      "company": "Commercial Industrial Electric",
+      "position": "Apprentice",
+      "website": "",
+      "startDate": "2018-02-01",
+      "endDate": "2018-08-31",
+      "summary": "Learned and assisted in basic electrical operations and maintenance.",
+      "highlights": [
+        "Operated and maintained electrical equipment",
+        "Assisted Master Electrician in various projects"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Anchor Church",
+      "website": "https://www.myanchor.church/",
+      "position": "Youth Leader",
+      "startDate": "2016-02-01",
+      "endDate": "Present",
+      "summary": "Leading and coordinating activities for youth, fostering a safe and engaging environment.",
+      "highlights": [
+        "Develop interpersonal and communication skills",
+        "Plan and implement diverse learning activities"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "1st MATE Underwater Robotics Competition",
+      "date": "2019",
+      "awarder": "MATE Robotics",
+      "summary": "Created an underwater robot for picking up rings and placing them on a pole."
+    }
+  ],
+  "references": [
+    {
+      "name": "Austin ChongTim",
+      "role": "Software Engineer",
+      "company": "Hungry Potato Games",
+      "email": "Austin.Chongtim@hungrypotatogames.com"
+    }
+  ]
+}
